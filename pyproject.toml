@@ -7,7 +7,7 @@ authors = ["Your Name <you@example.com>"]
 [tool.poetry.dependencies]
 python = "^3.9"
 aiohttp-swagger = "1.0.14"
-Pillow = "8.4.0"
+Pillow = "9.0.1"
 
 [tool.poetry.dev-dependencies]
 
